@@ -1,37 +1,28 @@
 {
   "auto_complete_commit_on_tab": true,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+  //"theme": "Material Brogrammer.sublime-theme", #uncomment this line
+  //"color_scheme": "Packages/User/SublimeLinter/Material One Dark (SL).tmTheme", #uncomment this line
   "drag_text": false,
   "draw_white_space": "all",
   "ensure_newline_at_eof_on_save": true,
-
   "font_options":
-    [
-      "directwrite",
-      "subpixel_antialias"
-    ],
-  
+  [
+    "directwrite",
+    "subpixel_antialias"
+  ],
   "font_size": 12,
   "highlight_line": true,
   "highlight_modified_tabs": true,
-  
   "ignored_packages":
-    [
-      "Vintage"
-    ],
-
+  [
+    "Vintage"
+  ],
   "indent_guide_options":
-    [
-      "draw_active"
-    ],
-
-  "rulers":
-    [
-      80,
-      120
-    ],
-
+  [
+    "draw_active"
+  ],
+  "index_files": true,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "margin": 2,
@@ -39,14 +30,21 @@
   "material_theme_small_statusbar": true,
   "material_theme_small_tab": true,
   "overlay_scroll_bars": "enabled",
+  "paths":
+  {
+    "linux": [],
+    "windows": [],
+    "osx": ["~/.rbenv/shims"]
+  },
+  "rulers":
+  [
+    80,
+    120
+  ],
   "show_full_path": true,
   "tab_size": 2,
-  "theme": "Material Brogrammer.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
   "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
-  "word_wrap": true,
-  "index_files": true
+  "word_wrap": true
 }
