@@ -1,7 +1,7 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"bold_folder_labels": true,
-	"drag_text": false,
+  "auto_complete_commit_on_tab": true,
+  "bold_folder_labels": true,
+  "drag_text": false,
   "draw_white_space": "all",
   "ensure_newline_at_eof_on_save": true,
   "font_options":
@@ -37,9 +37,9 @@
   "trim_trailing_white_space_on_save": true,
   "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
   "word_wrap": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+  "ignored_packages":
+  [
+    "Vintage"
+  ]
 }
