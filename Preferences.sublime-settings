@@ -1,9 +1,7 @@
 {
-  "auto_complete_commit_on_tab": true,
-  "bold_folder_labels": true,
-  //"theme": "Material Brogrammer.sublime-theme", #uncomment this line
-  //"color_scheme": "Packages/User/SublimeLinter/Material One Dark (SL).tmTheme", #uncomment this line
-  "drag_text": false,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"drag_text": false,
   "draw_white_space": "all",
   "ensure_newline_at_eof_on_save": true,
   "font_options":
@@ -14,21 +12,13 @@
   "font_size": 12,
   "highlight_line": true,
   "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
   "indent_guide_options":
   [
     "draw_active"
   ],
-  "index_files": true,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "margin": 2,
-  "material_theme_bold_tab": true,
-  "material_theme_small_statusbar": true,
-  "material_theme_small_tab": true,
   "overlay_scroll_bars": "enabled",
   "paths":
   {
@@ -46,5 +36,10 @@
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
-  "word_wrap": true
+  "word_wrap": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
 }
